@@ -1,0 +1,177 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[3]",
+					"strict" : false
+				},
+				{
+					"name" : "C[0]",
+					"strict" : false
+				},
+				{
+					"name" : "C[1]",
+					"strict" : false
+				},
+				{
+					"name" : "C[2]",
+					"strict" : false
+				},
+				{
+					"name" : "C[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Addr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ZF",
+					"strict" : false
+				},
+				{
+					"name" : "HLT",
+					"strict" : false
+				},
+				{
+					"name" : "IP[0]",
+					"strict" : false
+				},
+				{
+					"name" : "IP[1]",
+					"strict" : false
+				},
+				{
+					"name" : "IP[2]",
+					"strict" : false
+				},
+				{
+					"name" : "IP[3]",
+					"strict" : false
+				},
+				{
+					"name" : "OUTPORT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "OUTPORT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "OUTPORT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "OUTPORT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SP[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SP[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SP[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SP[3]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "A_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "A_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "A_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "A_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "B_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "BYTE[0]",
+					"strict" : false
+				},
+				{
+					"name" : "BYTE[1]",
+					"strict" : false
+				},
+				{
+					"name" : "BYTE[2]",
+					"strict" : false
+				},
+				{
+					"name" : "BYTE[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
